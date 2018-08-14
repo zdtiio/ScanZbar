@@ -1,7 +1,8 @@
 # ScanZbar
 使用 zbar 快速实现Android二维码扫描功能
+<br>
 <img src="https://github.com/yangxch/ScanZbar/raw/master/screenshot/scan.jpg" width="30%" height="30%"> 
-
+<br>
 <img src="https://github.com/yangxch/ScanZbar/raw/master/screenshot/二维码.gif" width="30%" height="30%"><img src="https://github.com/yangxch/ScanZbar/raw/master/screenshot/条码.gif" width="30%" height="30%">
 
 ***
